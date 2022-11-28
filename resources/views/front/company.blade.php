@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <!-- Mirrored from themestate.com/demo/geopoint/pages/about-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 06:18:58 GMT -->
-  <!-- Added by HTTrack -->
+
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-  <!-- /Added by HTTrack -->
+
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="pingback" href="../../xmlrpc.php" />
     <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_7f0f0b4c261ec403c958f935316adba8.css')}}" rel="stylesheet" />
-    <title>About Us &#8211; Geopoint</title>
+    <title>About Us | Geoparcel Surveys</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-    <link rel="alternate" type="application/rss+xml" title="Geopoint &raquo; Feed" href="../../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Geopoint &raquo; Comments Feed" href="../../comments/feed/index.html" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel='stylesheet' id='elementor-post-7-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css?ver=1668358455')}}" type='text/css' media='all' />
